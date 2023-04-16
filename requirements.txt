@@ -1,0 +1,10 @@
+matplotlib
+torch
+torchaudio
+torchvision
+git+https://github.com/facebookresearch/segment-anything.git
+opencv-python 
+pycocotools  
+onnxruntime 
+onnx
+numpy
